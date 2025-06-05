@@ -24,3 +24,16 @@ cd IP-Log
 ```bash
 pip install -r requirements.txt
 ```
+
+### ⚙️ Настройка
+Отредактируйте файл **config.txt**:
+```bash
+BOT_TOKEN=ваш_токен_бота  
+CHAT_ID=ваш_chat_id  
+EMAIL=ваша_почта@gmail.com  
+PASSWORD=пароль_приложения
+```
+### 🚀 Запуск:
+```bash
+python main.py
+```
