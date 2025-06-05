@@ -1,0 +1,4 @@
+requests
+python-telegraph-api
+pyshorteners
+pystyle
