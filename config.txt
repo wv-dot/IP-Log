@@ -1,0 +1,4 @@
+BOT_TOKEN=ваш_токен_бота  
+CHAT_ID=ваш_chat_id  
+EMAIL=ваша_почта@gmail.com  
+PASSWORD=пароль_приложения  
