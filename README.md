@@ -37,5 +37,3 @@ PASSWORD=пароль_приложения
 ```bash
 python main.py
 ```
-
-#logger #grabify #ip-logger #log
